@@ -1,0 +1,1 @@
+web: gunicorn kshopping.wsgi --log-file -
